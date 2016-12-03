@@ -1,0 +1,2 @@
+# ReactExercise
+This react exercise allows a list to be displayed and crud operations to be performed on it. Written in only react js. To get off the ground pull the code down and run the commands: 1. npm install 2. gulp serve.

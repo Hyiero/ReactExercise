@@ -1,0 +1,32 @@
+{
+  "name": "react_practice_one",
+  "version": "1.0.0",
+  "description": "Little bit of react/express/mongo practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Brandon Ripley",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "babel-preset-react": "^6.16.0",
+    "babelify": "^7.3.0",
+    "browser-sync": "^2.18.1",
+    "browserify": "^13.1.1",
+    "express": "^4.14.0",
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.30",
+    "gulp-sourcemaps": "^2.2.0",
+    "lodash": "^4.17.2",
+    "path": "^0.12.7",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
